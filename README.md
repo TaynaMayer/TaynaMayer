@@ -2,8 +2,7 @@
 ## Bem vindo ao meu perfil GitHub
 
 - 👨🏾‍💻 Sou uma eterna estudante de programação.
-- 🖥️ computer science - Estácio.
-- 💻 Software residency - Serratec.
+- 💻 Desenvolvedora.
 
 <br>
 
