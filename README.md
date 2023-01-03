@@ -40,5 +40,5 @@
   
 🐍🐍
 
-![snake animation](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/TaynaMayer/TaynaMayer/blob/output/github-contribution-grid-snake.svg)
  
