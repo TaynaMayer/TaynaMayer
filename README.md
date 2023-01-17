@@ -1,7 +1,7 @@
 ### Hello, Devs, me chamo Tayná! 👋
 ## Bem vindo ao meu perfil GitHub
 
-- 👨🏾‍💻 Sou uma eterna estudante de programação.
+- 👨🏾‍💻 Uma eterna estudante de programação.
 - 💻 Desenvolvedora.
 
 <br>
